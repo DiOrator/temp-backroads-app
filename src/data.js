@@ -41,8 +41,8 @@ export const tours = [
   {
     id: '1',
     image: tour1,
-    date: '2025',
-    title: 'This is Blessing',
+    date: 'august 26th, 2020',
+    title: 'Tibet Adventure',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'China',
     duration: 6,
@@ -51,8 +51,8 @@ export const tours = [
   {
     id: '2',
     image: tour2,
-    date: '2025',
-    title: 'Nivea',
+    date: 'october 11th, 2020',
+    title: 'best of java',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'Indonesia',
     duration: 11,
@@ -61,8 +61,8 @@ export const tours = [
   {
     id: '3',
     image: tour3,
-    date: '2024',
-    title: 'cartier',
+    date: 'september 15th, 2020',
+    title: 'explore hong kong',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'hong kong',
     duration: 8,
@@ -71,8 +71,8 @@ export const tours = [
   {
     id: '4',
     image: tour4,
-    date: '2023',
-    title: 'riggs',
+    date: 'december 5th, 2019',
+    title: 'kenya highlights',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'kenya',
     duration: 20,
