@@ -2,13 +2,13 @@ const Hero = () => {
   return (
     <section className='hero' id='home'>
       <div className='hero-banner'>
-        <h1>backroads app</h1>
+        <h1>From solomon to blessing</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
+          Actually, I hope you know who I am from our conversations, also that I
+          am more than you know. I'm doing this through coding, lol
         </p>
         <a href='#tours' className='btn hero-btn '>
-          explore tours
+          She said buy perfume
         </a>
       </div>
     </section>
